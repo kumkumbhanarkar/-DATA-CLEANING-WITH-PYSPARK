@@ -1,0 +1,15 @@
+ #COMPANY: CODTECH IT SOLUTIONS
+
+*NAME*:Kumkum C. Bhanarkar
+
+*INTERN ID*: CT08DN279
+
+*DOMAIN*: BIG DATA
+
+*DURATION*: 8 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+In this task, I used Apache Spark with Python (PySpark) to clean a large dataset. The goal was to handle common issues like missing values and duplicate records which often occur in real-world data. I created a PySpark script in Google Colab that read the dataset, checked each column for null or empty values, dropped rows with missing entries, and removed duplicate records. I also explored how to fill missing values using default or statistical methods. This exercise taught me how Spark handles distributed data cleaning at scale, which is much more efficient than traditional Python (Pandas) for large datasets.
+
+#Output
